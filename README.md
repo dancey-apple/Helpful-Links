@@ -4,8 +4,8 @@
 * <a href='https://yeun.github.io/open-color/'>Open Color</a> - open source color scheme, optimized for UI.
 * <a href='https://coolors.co/'>Coolors</a> - Allows you to create a palette from an image and check readability.
 * <a href='https://colorhunt.co/'>Color Hunt</a> - offers many beautiful palettes if you're not sure what colors you want to use.
-* <a hfref='https://materialui.co/colors/'>Material Design Colors</a> - set of colors inspired by Material Design.
-* <a hfref='https://maketintsandshades.com/'>Tint and Shade Generator</a> - does exactly what the name implies - make tints and shades from any color.
+* <a href='https://materialui.co/colors/'>Material Design Colors</a> - set of colors inspired by Material Design.
+* <a href='https://maketintsandshades.com/'>Tint and Shade Generator</a> - does exactly what the name implies - make tints and shades from any color.
 ### Images/video:
 * <a href='https://isorepublic.com/'>ISO Republic</a> - Free and premium stock photos searchable by topic.
 * <a href='https://unsplash.com/'>Unsplash</a> - Free high-resolution photos for your website. I use this site more than almost any other, there is so much stuff!
